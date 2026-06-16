@@ -2,7 +2,7 @@ Hello there! This is Shaik Pardi.....
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaik-pardi-11&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Followers](https://img.shields.io/github/followers/Shaik-pardi-11?style=social)
 [![Email Badge](https://img.shields.io/badge/Email-mdpardeen%40outlook.com-red?style=flat&logo=gmail)](mailto:mdpardeen@outlook.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pardeen-sm)
 [![Location Badge](https://img.shields.io/badge/-Bangalore%2C%20India-lightgrey?style=flat)]()
