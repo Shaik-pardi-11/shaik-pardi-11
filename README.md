@@ -93,7 +93,7 @@ I'm a dedicated B.Tech student with a strong passion for building **intelligent 
 ##  Featured Projects & Work
 
 ### 1.  **Predictive Risk-Aware DQN for Dynamic Obstacle Avoidance**
-**Status**: Completed | ** Stars**: 1
+**Status**: Completed | 
 
 A reinforcement learning project that compares **Standard DQN vs Risk-Aware DQN** for autonomous vehicle navigation in dynamic environments with moving obstacles.
 
@@ -121,7 +121,7 @@ class DQNAgent:
 ---
 
 ### 2.  **Plant Disease Prediction**
-**Status**: Completed | ** Stars**: 2
+**Status**: Completed | 
 
 An end-to-end deep learning solution for early detection and accurate classification of plant diseases, enabling timely agricultural interventions.
 
@@ -139,7 +139,7 @@ An end-to-end deep learning solution for early detection and accurate classifica
 ---
 
 ### 3.  **Heart Stroke Prediction**
-**Status**: Completed | ** Stars**: 1
+**Status**: Completed | 
 
 A comprehensive deep learning model for predicting heart stroke likelihood based on patient health metrics, demonstrating the complete ML pipeline.
 
@@ -171,7 +171,7 @@ def build_health_model(input_shape):
 ---
 
 ### 4.  **MindGuard AI**
-**Status**: Completed | ** Stars**: 1
+**Status**: Completed | 
 
 A full-stack AI application designed to analyze and predict mental burnout using advanced ML techniques. Features a robust backend with authentication and a responsive frontend.
 
@@ -203,7 +203,7 @@ async def predict_burnout(data: BurnoutData):
 ---
 
 ### 5.  **VisionZero Accident Severity Predictor**
-**Status**: Completed | ** Stars**: 1
+**Status**: Completed | 
 
 An intelligent machine learning system designed to predict traffic accident severity and identify actionable interventions to save lives.
 
@@ -221,7 +221,7 @@ An intelligent machine learning system designed to predict traffic accident seve
 ---
 
 ### 6.  **WikiQA - Question Answer System**
-**Status**: Completed | ** Stars**: 1
+**Status**: Completed | 
 
 A Natural Language Processing solution that outputs the probability score of sentences most suitable for answering questions, leveraging advanced NLP techniques.
 
@@ -320,24 +320,24 @@ A Natural Language Processing solution that outputs the probability score of sen
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [mdpardeen@outlook.com](mailto:mdpardeen@outlook.com) |
-| 💼 **LinkedIn** | [Connect on LinkedIn](#) |
-| 🐙 **GitHub** | [Shaik-pardi-11](https://github.com/Shaik-pardi-11) |
-| 📍 **Location** | Bangalore, India |
-| ⏰ **Timezone** | UTC +05:30 (IST) |
+|  **Email** | [mdpardeen@outlook.com](mailto:mdpardeen@outlook.com) |
+|  **LinkedIn** | [Connect on LinkedIn](#) |
+|  **GitHub** | [Shaik-pardi-11](https://github.com/Shaik-pardi-11) |
+|  **Location** | Bangalore, India |
+|  **Timezone** | UTC +05:30 (IST) |
 
 </div>
 
 ### Open To:
-- 🤝 **Collaborations** on ML/AI projects
-- 💼 **Internships** in ML/AI roles
-- 🎓 **Learning** opportunities and mentorship
-- 🚀 **Freelance Projects** in my areas of expertise
-- 📝 **Knowledge Sharing** and technical discussions
+-  **Collaborations** on ML/AI projects
+-  **Internships** in ML/AI roles
+-  **Learning** opportunities and mentorship
+-  **Freelance Projects** in my areas of expertise
+-  **Knowledge Sharing** and technical discussions
 
 ---
 
-## 💡 My Development Philosophy
+##  My Development Philosophy
 
 > *"Build solutions that matter. Write code that lasts. Never stop learning."*
 
@@ -352,13 +352,13 @@ A Natural Language Processing solution that outputs the probability score of sen
 
 <div align="center">
 
-## 🌟 Thank You for Visiting!
+##  Thank You for Visiting!
 
 **Feel free to explore my repositories, connect with me, and let's collaborate on exciting projects!**
 
 ### Support My Work
-⭐ If you find my projects helpful, please consider starring them!  
-🔗 Follow for more updates on ML, AI, and Web Development
+ If you find my projects helpful, please consider starring them!  
+ Follow for more updates on ML, AI, and Web Development
 
 ---
 
