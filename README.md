@@ -4,7 +4,7 @@ Hello there! This is Shaik Pardi.....
 
 [![GitHub Badge](https://img.shields.io/github/followers/Shaik-pardi-11?style=social)](https://github.com/Shaik-pardi-11)
 [![Email Badge](https://img.shields.io/badge/Email-mdpardeen%40outlook.com-red?style=flat&logo=gmail)](mailto:mdpardeen@outlook.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/pardeen-sm)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pardeen-sm)
 [![Location Badge](https://img.shields.io/badge/-Bangalore%2C%20India-lightgrey?style=flat)]()
 
 **B.Tech Student | ML Engineer | Full-Stack Developer | AI Enthusiast**
