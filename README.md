@@ -314,19 +314,17 @@ A Natural Language Processing solution that outputs the probability score of sen
 
 ---
 
-## 📫 Get In Touch
+##  Get In Touch
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-|  **Email** | [mdpardeen@outlook.com](mailto:mdpardeen@outlook.com) |
-|  **LinkedIn** | [Connect on LinkedIn](#) |
-|  **GitHub** | [Shaik-pardi-11](https://github.com/Shaik-pardi-11) |
-|  **Location** | Bangalore, India |
-|  **Timezone** | UTC +05:30 (IST) |
+[![Email](https://img.shields.io/badge/Email-mdpardeen%40outlook.com-red?style=for-the-badge&logo=gmail)](mailto:mdpardeen@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pardeen-sm)
+[![GitHub](https://img.shields.io/badge/GitHub-Shaik--pardi--11-black?style=for-the-badge&logo=github)](https://github.com/Shaik-pardi-11)
+[![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-lightgrey?style=for-the-badge&logo=google-maps)]()
 
 </div>
+
 
 ### Open To:
 -  **Collaborations** on ML/AI projects
