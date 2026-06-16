@@ -1,4 +1,4 @@
-Hello there! This is Shaik Pardi | Machine Learning & Full-Stack Developer
+Hello there! This is Shaik Pardi.....
 
 <div align="center">
 
