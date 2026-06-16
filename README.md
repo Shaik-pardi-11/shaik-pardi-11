@@ -5,7 +5,7 @@ Hello there! This is Shaik Pardi | Machine Learning & Full-Stack Developer
 [![GitHub Badge](https://img.shields.io/github/followers/Shaik-pardi-11?style=social)](https://github.com/Shaik-pardi-11)
 [![Email Badge](https://img.shields.io/badge/Email-mdpardeen%40outlook.com-red?style=flat&logo=gmail)](mailto:mdpardeen@outlook.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
-[![Location Badge](https://img.shields.io/badge/📍-Bangalore%2C%20India-lightgrey?style=flat)]()
+[![Location Badge](https://img.shields.io/badge/-Bangalore%2C%20India-lightgrey?style=flat)]()
 
 **B.Tech Student | ML Engineer | Full-Stack Developer | AI Enthusiast**
 
@@ -13,20 +13,20 @@ Hello there! This is Shaik Pardi | Machine Learning & Full-Stack Developer
 
 ---
 
-## 📌 About Me
+##  About Me
 
 I'm a dedicated B.Tech student with a strong passion for building **intelligent systems** and **full-stack applications**. My expertise spans **Machine Learning**, **Deep Learning**, **Reinforcement Learning**, and **Web Development**. I'm committed to solving real-world problems through technology and continuous innovation.
 
-- 🎓 **Education**: B.Tech Student
-- 💼 **Current Focus**: Machine Learning, AI Solutions, Full-Stack Development
-- 🔬 **Research Interests**: Autonomous Systems, Healthcare AI, NLP, Agricultural Tech
-- ⚡ **Coding Philosophy**: Write clean, efficient, and scalable code
-- 🚀 **Passion**: Turning ideas into impactful products
-- 📊 **Activity**: 434+ contributions in the last year
+-  **Education**: B.Tech Student
+-  **Current Focus**: Machine Learning, AI Solutions, Full-Stack Development
+-  **Research Interests**: Autonomous Systems, Healthcare AI, NLP, Agricultural Tech
+-  **Coding Philosophy**: Write clean, efficient, and scalable code
+-  **Passion**: Turning ideas into impactful products
+-  **Activity**: 434+ contributions in the last year
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,16 +56,16 @@ I'm a dedicated B.Tech student with a strong passion for building **intelligent 
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ### Specializations
-- 🤖 **Machine Learning**: Supervised Learning, Unsupervised Learning, Feature Engineering
-- 🧠 **Deep Learning**: CNNs, RNNs, Neural Networks, Transfer Learning
-- 🎮 **Reinforcement Learning**: DQN, Risk-Aware DQN, Policy Gradient Methods
-- 💬 **Natural Language Processing**: Text Processing, Sentiment Analysis, Q&A Systems
-- 🌐 **Full-Stack Development**: Backend APIs, Frontend Integration, Database Design
-- 📊 **Data Analysis**: Data Visualization, Statistical Analysis, Business Intelligence
+-  **Machine Learning**: Supervised Learning, Unsupervised Learning, Feature Engineering
+-  **Deep Learning**: CNNs, RNNs, Neural Networks, Transfer Learning
+-  **Reinforcement Learning**: DQN, Risk-Aware DQN, Policy Gradient Methods
+-  **Natural Language Processing**: Text Processing, Sentiment Analysis, Q&A Systems
+-  **Full-Stack Development**: Backend APIs, Frontend Integration, Database Design
+-  **Data Analysis**: Data Visualization, Statistical Analysis, Business Intelligence
 
 ---
 
-## 📊 GitHub Statistics & Activity
+##  GitHub Statistics & Activity
 
 <div align="center">
 
@@ -76,7 +76,7 @@ I'm a dedicated B.Tech student with a strong passion for building **intelligent 
 ### Key Metrics
 - **Total Repositories**: 19
 - **Public Repositories**: 6+ Featured Projects
-- **Total Contributions (Last Year)**: 434+ 🔥
+- **Total Contributions (Last Year)**: 434+ 
 - **Followers**: 5
 - **GitHub Stars**: 3
 - **Contribution Streak**: Consistent daily contributions
@@ -90,10 +90,10 @@ I'm a dedicated B.Tech student with a strong passion for building **intelligent 
 
 ---
 
-## 🎯 Featured Projects & Work
+##  Featured Projects & Work
 
-### 1. 🚗 **Predictive Risk-Aware DQN for Dynamic Obstacle Avoidance**
-**Status**: Completed | **⭐ Stars**: 1
+### 1.  **Predictive Risk-Aware DQN for Dynamic Obstacle Avoidance**
+**Status**: Completed | ** Stars**: 1
 
 A reinforcement learning project that compares **Standard DQN vs Risk-Aware DQN** for autonomous vehicle navigation in dynamic environments with moving obstacles.
 
@@ -120,8 +120,8 @@ class DQNAgent:
 
 ---
 
-### 2. 🌱 **Plant Disease Prediction**
-**Status**: Completed | **⭐ Stars**: 2
+### 2.  **Plant Disease Prediction**
+**Status**: Completed | ** Stars**: 2
 
 An end-to-end deep learning solution for early detection and accurate classification of plant diseases, enabling timely agricultural interventions.
 
@@ -138,8 +138,8 @@ An end-to-end deep learning solution for early detection and accurate classifica
 
 ---
 
-### 3. ❤️ **Heart Stroke Prediction**
-**Status**: Completed | **⭐ Stars**: 1
+### 3.  **Heart Stroke Prediction**
+**Status**: Completed | ** Stars**: 1
 
 A comprehensive deep learning model for predicting heart stroke likelihood based on patient health metrics, demonstrating the complete ML pipeline.
 
@@ -170,8 +170,8 @@ def build_health_model(input_shape):
 
 ---
 
-### 4. 🧠 **MindGuard AI**
-**Status**: Completed | **⭐ Stars**: 1
+### 4.  **MindGuard AI**
+**Status**: Completed | ** Stars**: 1
 
 A full-stack AI application designed to analyze and predict mental burnout using advanced ML techniques. Features a robust backend with authentication and a responsive frontend.
 
@@ -202,8 +202,8 @@ async def predict_burnout(data: BurnoutData):
 
 ---
 
-### 5. 🚨 **VisionZero Accident Severity Predictor**
-**Status**: Completed | **⭐ Stars**: 1
+### 5.  **VisionZero Accident Severity Predictor**
+**Status**: Completed | ** Stars**: 1
 
 An intelligent machine learning system designed to predict traffic accident severity and identify actionable interventions to save lives.
 
@@ -220,8 +220,8 @@ An intelligent machine learning system designed to predict traffic accident seve
 
 ---
 
-### 6. 💬 **WikiQA - Question Answer System**
-**Status**: Completed | **⭐ Stars**: 1
+### 6.  **WikiQA - Question Answer System**
+**Status**: Completed | ** Stars**: 1
 
 A Natural Language Processing solution that outputs the probability score of sentences most suitable for answering questions, leveraging advanced NLP techniques.
 
@@ -237,15 +237,15 @@ A Natural Language Processing solution that outputs the probability score of sen
 
 ---
 
-## 🔬 Research & Learning Areas
+##  Research & Learning Areas
 
 ### Current Focus
-- 🤖 **Autonomous Systems**: Self-driving vehicles, obstacle avoidance
-- 🏥 **Healthcare AI**: Disease prediction, patient health monitoring
-- 🌾 **Agricultural Tech**: Crop disease detection, yield prediction
-- 💭 **Mental Health AI**: Burnout prediction, wellness monitoring
-- 🚗 **Traffic Safety**: Accident prediction and prevention
-- 📝 **NLP Applications**: Question answering, text understanding
+-  **Autonomous Systems**: Self-driving vehicles, obstacle avoidance
+-  **Healthcare AI**: Disease prediction, patient health monitoring
+-  **Agricultural Tech**: Crop disease detection, yield prediction
+-  **Mental Health AI**: Burnout prediction, wellness monitoring
+-  **Traffic Safety**: Accident prediction and prevention
+-  **NLP Applications**: Question answering, text understanding
 
 ### Continuous Learning
 - Advanced Deep Learning architectures
@@ -256,7 +256,7 @@ A Natural Language Processing solution that outputs the probability score of sen
 
 ---
 
-## 💼 Professional Experience & Contributions
+##  Professional Experience & Contributions
 
 ### GitHub Activity
 - **434+ Contributions** in the last 12 months
@@ -275,7 +275,7 @@ A Natural Language Processing solution that outputs the probability score of sen
 
 ---
 
-## 📚 Educational & Professional Development
+##  Educational & Professional Development
 
 ### Areas of Expertise
 - **Machine Learning Fundamentals**: Supervised/Unsupervised Learning
@@ -287,16 +287,16 @@ A Natural Language Processing solution that outputs the probability score of sen
 - **Software Engineering**: Design Patterns, SOLID Principles, Clean Code
 
 ### Soft Skills
-- 🤝 Team Collaboration and Communication
-- 📋 Project Management and Planning
-- 🎯 Problem-Solving and Critical Thinking
-- 📊 Data-Driven Decision Making
-- 📖 Technical Documentation
-- 🎓 Self-Learning and Adaptation
+-  Team Collaboration and Communication
+-  Project Management and Planning
+-  Problem-Solving and Critical Thinking
+-  Data-Driven Decision Making
+-  Technical Documentation
+-  Self-Learning and Adaptation
 
 ---
 
-## 🚀 Current Projects & Goals
+##  Current Projects & Goals
 
 ### Short-term Goals (Next 6 Months)
 - [ ] Contribute to open-source ML projects
