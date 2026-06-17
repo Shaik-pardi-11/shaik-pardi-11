@@ -132,23 +132,6 @@ I'm a dedicated B.Tech student with a strong passion for building **intelligent 
 
 ---
 
-##  Current Projects & Goals
-
-### Short-term Goals (Next 6 Months)
-- [ ] Contribute to open-source ML projects
-- [ ] Publish research on Risk-Aware RL
-- [ ] Build production-grade ML API
-- [ ] Expand project portfolio with 3+ new projects
-- [ ] Achieve 500+ GitHub contributions
-
-### Long-term Goals
-- [ ] Become an ML expert in autonomous systems
-- [ ] Build AI solutions for social impact
-- [ ] Publish research papers in top venues
-- [ ] Lead ML engineering initiatives
-- [ ] Contribute significantly to open-source AI community
-
----
 
 ##  Get In Touch
 
