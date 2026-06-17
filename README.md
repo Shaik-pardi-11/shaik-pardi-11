@@ -192,7 +192,7 @@ I'm a dedicated B.Tech student with a strong passion for building **intelligent 
 
 ### Support My Work
  If you find my projects helpful, please consider starring them!  
- Follow for more updates on ML, AI, and Web Development
+ Follow for more updates on ML, AI, and Web Development.
 
 ---
 
