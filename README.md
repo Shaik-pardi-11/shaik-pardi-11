@@ -110,24 +110,6 @@ I'm a dedicated B.Tech student with a strong passion for building **intelligent 
 
 ---
 
-##  Professional Experience & Contributions
-
-### GitHub Activity
-- **434+ Contributions** in the last 12 months
-- **Consistent Daily Contributions** showing dedication and work ethic
-- **19 Public Repositories** with diverse projects
-- **Open Source Contributions** in ML and AI domains
-- **Code Quality**: Well-documented, clean, and maintainable code
-
-### Contribution Areas
-- Machine Learning model development
-- Data preprocessing and analysis
-- Full-stack application development
-- Backend API design and implementation
-- ML pipeline optimization
-- Documentation and knowledge sharing
-
----
 
 ##  Educational & Professional Development
 
