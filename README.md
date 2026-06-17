@@ -191,7 +191,7 @@ I'm a dedicated B.Tech student with a strong passion for building **intelligent 
 **Feel free to explore my repositories, connect with me, and let's collaborate on exciting projects!**
 
 ### Support My Work
- If you find my projects helpful, please consider starring them!  
+ If you find my projects helpful, please consider starring them! 
  Follow for more updates on ML, AI, and Web Development.
 
 ---
