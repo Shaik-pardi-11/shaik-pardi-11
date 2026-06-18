@@ -82,11 +82,7 @@ I'm a dedicated B.Tech student with a strong passion for building **intelligent 
 - **Contribution Streak**: Consistent daily contributions
 - **Most Used Language**: Python
 
-<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-pardi-11&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 
 ---
