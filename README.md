@@ -1,4 +1,4 @@
-# Hello there! I'm Shaik Pardi 👋
+# Hello there! I'm Shaik Pardi 
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 [![Email Badge](https://img.shields.io/badge/Email-mdpardeen%40outlook.com-red?style=flat&logo=gmail)](mailto:mdpardeen@outlook.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pardeen--SM-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pardeen-sm)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Shaik--pardi--11-black?style=flat&logo=github)](https://github.com/Shaik-pardi-11)
-[![Location Badge](https://img.shields.io/badge/📍-Bangalore%2C%20India-lightgrey?style=flat)]()
+[![Location Badge](https://img.shields.io/badge/-Bangalore%2C%20India-lightgrey?style=flat)]()
 
 **B.Tech Student | Full-Stack Developer | Machine Learning Enthusiast | AI Problem Solver**
 
@@ -15,20 +15,20 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I'm a passionate B.Tech student building **intelligent systems** and **practical applications** that solve real-world problems. My journey spans **full-stack web development**, **machine learning**, and **AI solutions** with a focus on clean code and impactful products.
 
-- 🎓 **Education**: B.Tech Student
-- 💼 **Focus Areas**: Full-Stack Development, Machine Learning, AI Applications
-- 🔬 **Research Interests**: Autonomous Systems, Healthcare AI, Agricultural Technology, Mental Health Analytics, Traffic Safety
-- 💻 **Coding Philosophy**: Write clean, efficient, and maintainable code
-- 🚀 **Passion**: Turning innovative ideas into deployable products
-- 📊 **Activity**: 19 repositories | 6+ featured projects | Open to collaborations
+-  **Education**: B.Tech Student
+-  **Focus Areas**: Full-Stack Development, Machine Learning, AI Applications
+-  **Research Interests**: Autonomous Systems, Healthcare AI, Agricultural Technology, Mental Health Analytics, Traffic Safety
+-  **Coding Philosophy**: Write clean, efficient, and maintainable code
+-  **Passion**: Turning innovative ideas into deployable products
+-  **Activity**: 19 repositories | 6+ featured projects | Open to collaborations
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,7 +68,7 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -79,13 +79,13 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 ### Key Metrics
 - **Total Repositories**: 19
 - **Featured Projects**: 6+
-- **GitHub Stars**: 3 ⭐
+- **GitHub Stars**: 3 
 - **Followers**: 5
-- **Most Used Language**: Python 🐍
+- **Most Used Language**: Python 
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 My repositories showcase practical implementations across ML, AI, and full-stack development:
 
@@ -120,15 +120,15 @@ My repositories showcase practical implementations across ML, AI, and full-stack
 
 ---
 
-## 🔬 Current Research & Learning Focus
+##  Current Research & Learning Focus
 
 ### Active Areas
-- 🤖 **Autonomous Systems**: Self-driving vehicles, obstacle avoidance, dynamic navigation
-- 🏥 **Healthcare AI**: Disease prediction, patient monitoring, health analytics
-- 🌾 **Agricultural Tech**: Crop disease detection, yield prediction, resource optimization
-- 🧠 **Mental Health AI**: Burnout prediction, wellness monitoring, user-centric analytics
-- 🚦 **Traffic Safety**: Accident prediction, severity assessment, preventive interventions
-- 📝 **NLP Applications**: Question answering, text understanding, semantic analysis
+-  **Autonomous Systems**: Self-driving vehicles, obstacle avoidance, dynamic navigation
+-  **Healthcare AI**: Disease prediction, patient monitoring, health analytics
+-  **Agricultural Tech**: Crop disease detection, yield prediction, resource optimization
+-  **Mental Health AI**: Burnout prediction, wellness monitoring, user-centric analytics
+-  **Traffic Safety**: Accident prediction, severity assessment, preventive interventions
+-  **NLP Applications**: Question answering, text understanding, semantic analysis
 
 ### Continuous Development
 - Advanced Deep Learning architectures and optimization
@@ -139,7 +139,7 @@ My repositories showcase practical implementations across ML, AI, and full-stack
 
 ---
 
-## 🎓 Core Expertise Areas
+##  Core Expertise Areas
 
 ### Technical Knowledge
 - **ML Fundamentals**: Supervised/Unsupervised Learning, Model Evaluation, Hyperparameter Tuning
@@ -150,16 +150,16 @@ My repositories showcase practical implementations across ML, AI, and full-stack
 - **Software Engineering**: Design Patterns, SOLID Principles, Clean Code, Testing
 
 ### Soft Skills
-- ✅ Team Collaboration and Communication
-- ✅ Project Management and Planning
-- ✅ Problem-Solving and Critical Thinking
-- ✅ Data-Driven Decision Making
-- ✅ Technical Documentation and Knowledge Sharing
-- ✅ Self-Learning and Continuous Improvement
+-  Team Collaboration and Communication
+-  Project Management and Planning
+-  Problem-Solving and Critical Thinking
+-  Data-Driven Decision Making
+-  Technical Documentation and Knowledge Sharing
+-  Self-Learning and Continuous Improvement
 
 ---
 
-## 💬 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -170,15 +170,15 @@ My repositories showcase practical implementations across ML, AI, and full-stack
 </div>
 
 ### I'm Open To:
-- 🤝 **Collaborations** on ML, AI, and full-stack projects
-- 💼 **Internships** in Machine Learning / AI / Full-Stack Development roles
-- 🎓 **Learning** opportunities, mentorship, and knowledge exchange
-- 🚀 **Freelance Projects** in my areas of expertise
-- 💡 **Technical discussions** and open-source contributions
+-  **Collaborations** on ML, AI, and full-stack projects
+-  **Internships** in Machine Learning / AI / Full-Stack Development roles
+-  **Learning** opportunities, mentorship, and knowledge exchange
+-  **Freelance Projects** in my areas of expertise
+-  **Technical discussions** and open-source contributions
 
 ---
 
-## 🧠 My Development Philosophy
+##  My Development Philosophy
 
 > *"Build solutions that matter. Write code that lasts. Never stop learning."*
 
@@ -191,15 +191,15 @@ My repositories showcase practical implementations across ML, AI, and full-stack
 
 ---
 
-## 🌟 Support & Recognition
+##  Support & Recognition
 
 <div align="center">
 
 If you find my projects helpful or interesting, please consider:
 
-⭐ **Starring** my repositories (it helps visibility!)
-📲 **Following** for updates on ML, AI, and Web Development
-💬 **Connecting** on LinkedIn for professional discussions
+ **Starring** my repositories (it helps visibility!)
+ **Following** for updates on ML, AI, and Web Development
+ **Connecting** on LinkedIn for professional discussions
 
 </div>
 
@@ -213,6 +213,6 @@ If you find my projects helpful or interesting, please consider:
 
 ---
 
-**Last Updated**: June 2026 | **Keep Learning, Keep Building** 🚀
+**Last Updated**: June 2026 | **Keep Learning, Keep Building** 
 
 </div>
