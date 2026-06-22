@@ -77,10 +77,10 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 </div>
 
 ### Key Metrics
-- **Total Repositories**: 19
+- **Total Repositories**: 20
 - **Featured Projects**: 6+
 - **GitHub Stars**: 3 
-- **Followers**: 5
+- **Followers**: 6
 - **Most Used Language**: Python 
 
 ---
