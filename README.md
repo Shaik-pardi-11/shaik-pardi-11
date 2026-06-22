@@ -4,7 +4,7 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/Shaik-pardi-11?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Shaik-pardi-11?style=social)
-[![Email Badge](https://img.shields.io/badge/Email-mdpardeen%40outlook.com-red?style=flat&logo=gmail)](mailto:mdpardeen2006@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-mdpardeen2006%40gmail.com-red?style=flat&logo=gmail)](mailto:mdpardeen2006@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pardeen--SM-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pardeen-sm)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Shaik--pardi--11-black?style=flat&logo=github)](https://github.com/Shaik-pardi-11)
 [![Location Badge](https://img.shields.io/badge/-Bangalore%2C%20India-lightgrey?style=flat)]()
@@ -163,7 +163,7 @@ My repositories showcase practical implementations across ML, AI, and full-stack
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mdpardeen%40outlook.com-red?style=for-the-badge&logo=gmail)](mailto:mdpardeen@outlook.com)
+[![Email](https://img.shields.io/badge/Email-mdpardeen2006%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mdpardeen2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pardeen--SM-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pardeen-sm)
 [![GitHub](https://img.shields.io/badge/GitHub-Shaik--pardi--11-black?style=for-the-badge&logo=github)](https://github.com/Shaik-pardi-11)
 
