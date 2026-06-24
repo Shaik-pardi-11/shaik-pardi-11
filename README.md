@@ -91,7 +91,7 @@ My repositories showcase practical implementations across ML, AI, and full-stack
 
 1. **[Predictive-Risk-Aware-DQN-for-Dynamic-Obstacle-Avoidance](https://github.com/Shaik-pardi-11/Predictive-Risk-Aware-DQN-for-Dynamic-Obstacle-Avoidance)**
    - Reinforcement learning for autonomous navigation.
-   - Compares Standard DQN vs Risk-Aware DQN with moving obstacles
+   - Compares Standard DQN vs Risk-Aware DQN with moving obstacles.
 
 2. **[MindGuard-AI](https://github.com/Shaik-pardi-11/MindGuard-AI)**
    - Full-stack mental health analytics application
