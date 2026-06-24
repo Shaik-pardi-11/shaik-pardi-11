@@ -94,7 +94,7 @@ My repositories showcase practical implementations across ML, AI, and full-stack
    - Compares Standard DQN vs Risk-Aware DQN with moving obstacles.
 
 2. **[MindGuard-AI](https://github.com/Shaik-pardi-11/MindGuard-AI)**
-   - Full-stack mental health analytics application
+   - Full-stack mental health analytics application.
    - FastAPI backend with AI-powered burnout prediction
    - Real-world impact on mental wellness monitoring
 
