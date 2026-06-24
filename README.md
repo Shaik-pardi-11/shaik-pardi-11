@@ -90,7 +90,7 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 My repositories showcase practical implementations across ML, AI, and full-stack development:
 
 1. **[Predictive-Risk-Aware-DQN-for-Dynamic-Obstacle-Avoidance](https://github.com/Shaik-pardi-11/Predictive-Risk-Aware-DQN-for-Dynamic-Obstacle-Avoidance)**
-   - Reinforcement learning for autonomous navigation
+   - Reinforcement learning for autonomous navigation.
    - Compares Standard DQN vs Risk-Aware DQN with moving obstacles
 
 2. **[MindGuard-AI](https://github.com/Shaik-pardi-11/MindGuard-AI)**
