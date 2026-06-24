@@ -96,7 +96,7 @@ My repositories showcase practical implementations across ML, AI, and full-stack
 2. **[MindGuard-AI](https://github.com/Shaik-pardi-11/MindGuard-AI)**
    - Full-stack mental health analytics application.
    - FastAPI backend with AI-powered burnout prediction.
-   - Real-world impact on mental wellness monitoring
+   - Real-world impact on mental wellness monitoring.
 
 3. **[Plant-Disease-Prediction](https://github.com/Shaik-pardi-11/Plant-disease-Prediction)**
    - Deep learning for agricultural technology
