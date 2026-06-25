@@ -59,7 +59,7 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ### Core Competencies
-- **Machine Learning**: Supervised Learning, Unsupervised Learning, Feature Engineering, Model Optimization.
+- **Machine Learning**: Supervised Learning, Unsupervised Learning, Feature Engineering, Model Optimization
 - **Deep Learning**: CNNs, RNNs, Neural Networks, Transfer Learning, Transformers.
 - **Reinforcement Learning**: DQN, Risk-Aware RL, Policy Gradient Methods.
 - **Natural Language Processing**: Text Processing, Sentiment Analysis, Q&A Systems.
