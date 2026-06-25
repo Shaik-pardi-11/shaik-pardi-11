@@ -21,7 +21,7 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 
 -  **Education**: B.Tech Student.
 -  **Focus Areas**: Full-Stack Development, Machine Learning, AI Applications
--  **Research Interests**: Autonomous Systems, Healthcare AI, Agricultural Technology, Mental Health Analytics, Traffic Safety.
+-  **Research Interests**: Autonomous Systems, Healthcare AI, Agricultural Technology, Mental Health Analytics, Traffic Safety
 -  **Coding Philosophy**: Write clean, efficient, and maintainable code
 -  **Passion**: Turning innovative ideas into deployable products.
 -  **Activity**: 19 repositories | 6+ featured projects | Open to collaborations.
