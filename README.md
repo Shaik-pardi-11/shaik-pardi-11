@@ -62,7 +62,7 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 - **Machine Learning**: Supervised Learning, Unsupervised Learning, Feature Engineering, Model Optimization
 - **Deep Learning**: CNNs, RNNs, Neural Networks, Transfer Learning, Transformers.
 - **Reinforcement Learning**: DQN, Risk-Aware RL, Policy Gradient Methods.
-- **Natural Language Processing**: Text Processing, Sentiment Analysis, Q&A Systems.
+- **Natural Language Processing**: Text Processing, Sentiment Analysis, Q&A Systems
 - **Full-Stack Development**: RESTful APIs, Frontend Integration, Database Design, Deployment
 - **Data Analysis**: Data Visualization, Statistical Analysis, Business Intelligence
 
