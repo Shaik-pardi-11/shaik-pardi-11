@@ -20,7 +20,7 @@
 I'm a passionate B.Tech student building **intelligent systems** and **practical applications** that solve real-world problems. My journey spans **full-stack web development**, **machine learning**, and **AI solutions** with a focus on clean code and impactful products..
 
 -  **Education**: B.Tech Student.
--  **Focus Areas**: Full-Stack Development, Machine Learning, AI Applications
+-  **Focus Areas**: Full-Stack Development, Machine Learning, AI Applications.
 -  **Research Interests**: Autonomous Systems, Healthcare AI, Agricultural Technology, Mental Health Analytics, Traffic Safety
 -  **Coding Philosophy**: Write clean, efficient, and maintainable code
 -  **Passion**: Turning innovative ideas into deployable products
