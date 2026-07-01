@@ -34,31 +34,7 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 <p> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css,sql" /> </p>
 
 ### Machine Learning & AI
-# 🤖 Artificial Intelligence & Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow" height="60"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="60"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/XGBoost-FFB000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-1B4F72?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</p>
+<p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> <img src="https://img.shields.io/badge/XGBoost-FFB000?style=for-the-badge&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> </p>
 
 ### Web Development & Backend
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind" /> </p>
