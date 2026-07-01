@@ -34,7 +34,20 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 <p> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css,sql" /> </p>
 
 ### Machine Learning & AI
-<p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> <img src="https://img.shields.io/badge/XGBoost-FFB000?style=for-the-badge&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> </p>
+## 🧠 Machine Learning & AI
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
+
+<img src="https://img.shields.io/badge/XGBoost-F9A825?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
 
 ### Web Development & Backend
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind" /> </p>
