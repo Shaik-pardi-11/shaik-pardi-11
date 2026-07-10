@@ -73,20 +73,28 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 
 ##  GitHub Statistics
 
+## 📈 GitHub Statistics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shaik-pardi-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2dd4bf&icon_color=a78bfa" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-pardi-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2dd4bf" width="38%"/>
+
+<img src="https://streak-stats.demolab.com?user=Shaik-pardi-11&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=A78BFA" width="70%"/>
+</div>
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaik-pardi-11&show_icons=true&theme=radical&hide_border=true&count_private=true)
+| Metric | Value |
+|:---:|:---:|
+| Total Repositories | 20 |
+| Featured Projects | 6+ |
+| GitHub Stars | 24 |
+| Followers | 6 |
+| Most Used Language | Python |
 
 </div>
 
-### Key Metrics
-- **Total Repositories**: 20
-- **Featured Projects**: 6+
-- **GitHub Stars**: 24 
-- **Followers**: 6
-- **Most Used Language**: Python 
-
----
+<br/>
 
 ## Featured Projects
 
