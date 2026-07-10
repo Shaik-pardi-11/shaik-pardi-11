@@ -1,22 +1,27 @@
-# Hello there! I'm Shaik Pardi 
-
 <div align="center">
 
-![GitHub Followers](https://img.shields.io/github/followers/Shaik-pardi-11?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Shaik-pardi-11?style=social)
-[![Email Badge](https://img.shields.io/badge/Email-mdpardeen2006%40gmail.com-red?style=flat&logo=gmail)](mailto:mdpardeen2006@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pardeen--SM-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pardeen-sm)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Shaik--pardi--11-black?style=flat&logo=github)](https://github.com/Shaik-pardi-11)
-[![Location Badge](https://img.shields.io/badge/-Bangalore%2C%20India-lightgrey?style=flat)]().
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:2dd4bf&height=200&section=header&text=Shaik%20Pardi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20AI%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
-**B.Tech Student | Full-Stack Developer | Machine Learning Enthusiast | AI Problem Solver**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Turning+ideas+into+deployable+products;Open+to+ML+%2F+AI+%2F+Full-Stack+collaborations" alt="Typing SVG" />
+
+<br/>
+
+![GitHub Followers](https://img.shields.io/github/followers/Shaik-pardi-11?style=for-the-badge&color=302b63&labelColor=0d1117)
+![GitHub Stars](https://img.shields.io/github/stars/Shaik-pardi-11?style=for-the-badge&color=2dd4bf&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Shaik-pardi-11&style=for-the-badge&color=a78bfa&labelColor=0d1117)
+
+[![Email](https://img.shields.io/badge/Email-mdpardeen2006%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mdpardeen2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pardeen--SM-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pardeen-sm)
+[![GitHub](https://img.shields.io/badge/GitHub-Shaik--pardi--11-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaik-pardi-11)
+[![Location](https://img.shields.io/badge/Bangalore%2C_India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335)]()
 
 </div>
+
+<br/>
 
 ---
-<div align = "center">
-  ## About Me
-</div>
+
+## About Me
 
 I'm a passionate B.Tech student building **intelligent systems** and **practical applications** that solve real-world problems. My journey spans **full-stack web development**, **machine learning**, and **AI solutions** with a focus on clean code and impactful products.
 
