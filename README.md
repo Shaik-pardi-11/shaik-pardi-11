@@ -7,7 +7,7 @@
 [![Email Badge](https://img.shields.io/badge/Email-mdpardeen2006%40gmail.com-red?style=flat&logo=gmail)](mailto:mdpardeen2006@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pardeen--SM-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pardeen-sm)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Shaik--pardi--11-black?style=flat&logo=github)](https://github.com/Shaik-pardi-11)
-[![Location Badge](https://img.shields.io/badge/-Bangalore%2C%20India-lightgrey?style=flat)]()
+[![Location Badge](https://img.shields.io/badge/-Bangalore%2C%20India-lightgrey?style=flat)]().
 
 **B.Tech Student | Full-Stack Developer | Machine Learning Enthusiast | AI Problem Solver**
 
