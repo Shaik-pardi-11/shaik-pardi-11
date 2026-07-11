@@ -220,5 +220,7 @@ If you find my projects helpful or interesting, please consider:
 
 **Let's build something amazing together.** Feel free to explore my repositories, open issues, and reach out for collaboration opportunities.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:302b63&height=120&section=footer"/>
+
 ---
 </div>
