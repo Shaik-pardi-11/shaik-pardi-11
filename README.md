@@ -40,7 +40,7 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 <p> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css,sql" /> </p>
 
 ### Machine Learning & AI
-<h2>🧠 Machine Learning & AI</h2>
+<h2> Machine Learning & AI</h2>
 
 <p align="left">
 
@@ -73,7 +73,7 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 
 ##  GitHub Statistics
 
-## 📈 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shaik-pardi-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2dd4bf&icon_color=a78bfa" width="49%"/>
