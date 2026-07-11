@@ -40,7 +40,6 @@ I'm a passionate B.Tech student building **intelligent systems** and **practical
 <p> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css,sql" /> </p>
 
 ### Machine Learning & AI
-<h2> Machine Learning & AI</h2>
 
 <p align="left">
 
