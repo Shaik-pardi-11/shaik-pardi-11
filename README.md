@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a passionate B.Tech student building **intelligent systems** and **practical applications** that solve real-world problems. My journey spans **full-stack web development**, **machine learning**, and **AI solutions** with a focus on clean code and impactful products..
+I'm a passionate B.Tech student building **intelligent systems** and **practical applications** that solve real-world problems. My journey spans **full-stack web development**, **machine learning**, and **AI solutions** with a focus on clean code and impactful products...
 
 -  **Education**: B.Tech Student
 -  **Focus Areas**: Full-Stack Development, Machine Learning, AI Applications
