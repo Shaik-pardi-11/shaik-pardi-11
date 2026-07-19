@@ -204,8 +204,10 @@ My repositories showcase practical implementations across ML, AI, and full-stack
 ---
 
 ##  My Development Philosophy
+<div align = "center">
 
 > *"Build solutions that matter. Write code that lasts. Never stop learning."*
+</div>
 
 ### Core Principles
 1. **Quality Over Quantity** — Well-tested, maintainable, scalable code
