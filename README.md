@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Turning+ideas+into+deployable+products;Open+to+ML+%2F+AI+%2F+Full-Stack+collaborations" alt="Typing SVG" />
 
-<br/>
 ![GitHub Followers](https://img.shields.io/github/followers/Shaik-pardi-11?style=for-the-badge&color=302b63&labelColor=0d1117)
 ![GitHub Stars](https://img.shields.io/github/stars/Shaik-pardi-11?style=for-the-badge&color=2dd4bf&labelColor=0d1117)
 ![Profile Views](https://komarev.com/ghpvc/?username=Shaik-pardi-11&style=for-the-badge&color=a78bfa&labelColor=0d1117)
@@ -12,9 +11,8 @@
 [![Email](https://img.shields.io/badge/Email-mdpardeen2006%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mdpardeen2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pardeen--SM-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pardeen-sm)
 [![GitHub](https://img.shields.io/badge/GitHub-Shaik--pardi--11-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaik-pardi-11)
-[![Location](https://img.shields.io/badge/Bangalore%2C_India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335)]()
+[![Location](https://img.shields.io/badge/Bangalore%2C_India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335)](https://www.google.com/maps/place/Bangalore,+India)
 
-</div>
 
 <br/>
 
