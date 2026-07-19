@@ -15,21 +15,40 @@
 
 
 <br/>
+</div>
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-I'm a passionate B.Tech student building **intelligent systems** and **practical applications** that solve real-world problems. My journey spans **full-stack web development**, **machine learning**, and **AI solutions** with a focus on clean code and impactful products.
+```yaml
+Name:          Pardeen
+Education:     B.Tech CSE (Artificial Intelligence & Machine Learning)
+University:    Presidency University, Bengaluru
 
--  **Education**: B.Tech Student
--  **Focus Areas**: Full-Stack Development, Machine Learning, AI Applications
--  **Research Interests**: Autonomous Systems, Healthcare AI, Agricultural Technology, Mental Health Analytics, Traffic Safety
--  **Coding Philosophy**: Write clean, efficient, and maintainable code
--  **Passion**: Turning innovative ideas into deployable products
--  **Activity**: 19 repositories | 6+ featured projects | Open to collaborations
+Current Focus:
+  - Machine Learning
+  - Deep Learning
+  - Reinforcement Learning
+  - Full Stack Development
+  - AI Research
 
----
+Passion:
+  Building intelligent systems that solve real-world problems.
+
+Currently Learning:
+  - Large Language Models (LLMs)
+  - MLOps
+  - Cloud Computing
+  - Generative AI
+
+Open To:
+  - Internships
+  - AI/ML Projects
+  - Full Stack Development
+  - Open Source Collaboration
+```
+
 
 ##  Technical Skills
 
