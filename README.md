@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Turning+ideas+into+deployable+products;Open+to+ML+%2F+AI+%2F+Full-Stack+collaborations" alt="Typing SVG" />
 
 <br/>
-.
+..
 ![GitHub Followers](https://img.shields.io/github/followers/Shaik-pardi-11?style=for-the-badge&color=302b63&labelColor=0d1117)
 ![GitHub Stars](https://img.shields.io/github/stars/Shaik-pardi-11?style=for-the-badge&color=2dd4bf&labelColor=0d1117)
 ![Profile Views](https://komarev.com/ghpvc/?username=Shaik-pardi-11&style=for-the-badge&color=a78bfa&labelColor=0d1117)
