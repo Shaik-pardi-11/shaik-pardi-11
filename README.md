@@ -100,7 +100,7 @@ Open To:
 
 | Metric | Value |
 |:---:|:---:|
-| Total Repositories | 22 |
+| Total Repositories | 23 |
 | Featured Projects | 6+ |
 | GitHub Stars | 24 |
 | Followers | 6 |
