@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Shaik--pardi--11-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaik-pardi-11)
 [![Location](https://img.shields.io/badge/Bangalore%2C_India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335)](https://www.google.com/maps/place/Bangalore,+India)
 
-.
+
 <br/>
 </div>
 
