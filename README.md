@@ -85,28 +85,6 @@ Open To:
 
 ---
 
-##  GitHub Statistics
-
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shaik-pardi-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2dd4bf&icon_color=a78bfa" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-pardi-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2dd4bf" width="38%"/>
-
-<img src="https://streak-stats.demolab.com?user=Shaik-pardi-11&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=A78BFA" width="70%"/>
-</div>
-
-<div align="center">
-
-| Metric | Value |
-|:---:|:---:|
-| Total Repositories | 23 |
-| Featured Projects | 6+ |
-| GitHub Stars | 24 |
-| Followers | 6 |
-| Most Used Language | Python | Java |
-
-</div>
-
 <br/>
 
 ## Featured Projects
