@@ -70,7 +70,7 @@ Open To:
 </p>
 
 ### Web Development & Backend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql" /> </p>
 
 ### Tools & Development Environment
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> </p>
