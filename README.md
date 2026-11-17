@@ -73,7 +73,7 @@ Open To:
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind" /> </p>
 
 ### Tools & Development Environment
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> </p>
 
 ### Core Competencies
 - **Machine Learning**: Supervised Learning, Unsupervised Learning, Feature Engineering, Model Optimization
