@@ -52,16 +52,13 @@ Open To:
 ##  Technical Skills
 
 ### Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css,sql" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,sql" /> </p>
 
 ### Machine Learning & AI
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
 <img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
-
-<img src="https://img.shields.io/badge/XGBoost-FFB000?style=for-the-badge&labelColor=FFB000&color=FFB000&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
