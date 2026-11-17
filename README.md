@@ -137,7 +137,6 @@ My repositories showcase practical implementations across ML, AI, and full-stack
 - Production ML systems and deployment strategies
 - Cloud computing and scalability solutions
 - Research paper implementation and experimentation
-- DevOps and CI/CD pipelines for ML projects
 
 ---
 
@@ -147,7 +146,6 @@ My repositories showcase practical implementations across ML, AI, and full-stack
 - **ML Fundamentals**: Supervised/Unsupervised Learning, Model Evaluation, Hyperparameter Tuning
 - **Deep Learning**: Neural Network Architecture, Optimization Techniques, Transfer Learning
 - **Reinforcement Learning**: Q-Learning, DQN, Policy Methods, Reward Shaping
-- **Data Engineering**: ETL Pipelines, Data Preprocessing, Feature Engineering, Data Quality
 - **Full-Stack Development**: Frontend Development, API Design, Backend Services, Database Systems
 - **Software Engineering**: Design Patterns, SOLID Principles, Clean Code, Testing
 
